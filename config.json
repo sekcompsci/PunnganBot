@@ -1,0 +1,14 @@
+{
+    "user": {
+        "id": "1682209248",
+        "email": "sirawit.sek@gmail.com",
+        "password": "Fsirawitcmu"
+    },
+    "pageID": "260413351079553",
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "db": "punngan"
+    }
+}

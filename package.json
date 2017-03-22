@@ -1,10 +1,13 @@
 {
-    "name": "PunNganAI",
-    "version": "1.0.0",
-    "dependencies": {
-        "express": "latest",
-        "facebook-chat-api": "latest",
-        "fs": "latest",
-        "mysql": "latest"
-    }
+  "name": "PunNganAI",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "facebook-chat-api": "latest",
+    "fs": "latest",
+    "moment": "latest",
+    "mysql": "latest",
+    "node-schedule": "latest",
+    "redis": "latest"
+  }
 }
